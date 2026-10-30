@@ -1,0 +1,11 @@
+{
+  "name": "Snake IO #751",
+  "description": "Snake IO NFT Collection on BNB Chain. Small Snake, Big Dreams. Max supply 1,111, max 11 per wallet.",
+  "image": "https://snakegameio.online/nft/assets/uncommon.jpg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Uncommon"
+    }
+  ]
+}
